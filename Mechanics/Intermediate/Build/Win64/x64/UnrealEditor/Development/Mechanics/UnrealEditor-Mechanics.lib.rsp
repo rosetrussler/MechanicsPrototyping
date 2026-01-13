@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Mechanics.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Gaming/Documents/GitHub/MechanicsPrototyping/Mechanics/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Gaming/Documents/GitHub/MechanicsPrototyping/Mechanics/Intermediate/Build/Win64/x64/UnrealEditor/Development/Mechanics/Module.Mechanics.gen.cpp.obj"
+"C:/Users/Gaming/Documents/GitHub/MechanicsPrototyping/Mechanics/Intermediate/Build/Win64/x64/UnrealEditor/Development/Mechanics/FireAtPlayer.cpp.obj"
+"C:/Users/Gaming/Documents/GitHub/MechanicsPrototyping/Mechanics/Intermediate/Build/Win64/x64/UnrealEditor/Development/Mechanics/Mechanics.cpp.obj"
+"C:/Users/Gaming/Documents/GitHub/MechanicsPrototyping/Mechanics/Intermediate/Build/Win64/x64/UnrealEditor/Development/Mechanics/ShootAtPlayer.cpp.obj"
+"C:/Users/Gaming/Documents/GitHub/MechanicsPrototyping/Mechanics/Intermediate/Build/Win64/x64/UnrealEditor/Development/Mechanics/PerModuleInline.gen.cpp.obj"
+"C:/Users/Gaming/Documents/GitHub/MechanicsPrototyping/Mechanics/Intermediate/Build/Win64/x64/UnrealEditor/Development/Mechanics/Default.rc2.res"
+/OUT:"C:/Users/Gaming/Documents/GitHub/MechanicsPrototyping/Mechanics/Intermediate/Build/Win64/x64/UnrealEditor/Development/Mechanics/UnrealEditor-Mechanics.lib"

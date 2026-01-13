@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Mechanics.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Mechanics.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MechanicsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Mechanics">
+      <UniqueIdentifier>{CE8762C4-A8EA-38AC-B13B-3F925AFE4A43}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Mechanics\FireAtPlayer.cpp">
+      <Filter>Source\Mechanics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mechanics\FireAtPlayer.h">
+      <Filter>Source\Mechanics</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Mechanics\Mechanics.Build.cs">
+      <Filter>Source\Mechanics</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Mechanics\Mechanics.cpp">
+      <Filter>Source\Mechanics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mechanics\Mechanics.h">
+      <Filter>Source\Mechanics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mechanics\ShootAtPlayer.cpp">
+      <Filter>Source\Mechanics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mechanics\ShootAtPlayer.h">
+      <Filter>Source\Mechanics</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

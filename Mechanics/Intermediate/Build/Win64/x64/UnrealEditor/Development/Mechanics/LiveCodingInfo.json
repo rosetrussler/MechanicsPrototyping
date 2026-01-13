@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Mechanics.gen.cpp.obj": [
+			"FireAtPlayer.gen.cpp.obj",
+			"Mechanics.init.gen.cpp.obj",
+			"ShootAtPlayer.gen.cpp.obj"
+		]
+	}
+}
