@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\t017235p\\documents\\github\\mechanicsprototyping\\mechanics\\source\\mechanics\\shootatplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\t017235p\\documents\\github\\mechanicsprototyping\\mechanics\\intermediate\\build\\win64\\x64\\mechanicseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\t017235p\\documents\\github\\mechanicsprototyping\\mechanics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mechanics\\definitions.mechanics.h",
+            "c:\\users\\t017235p\\documents\\github\\mechanicsprototyping\\mechanics\\source\\mechanics\\shootatplayer.h",
+            "c:\\users\\t017235p\\documents\\github\\mechanicsprototyping\\mechanics\\intermediate\\build\\win64\\unrealeditor\\inc\\mechanics\\uht\\shootatplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
